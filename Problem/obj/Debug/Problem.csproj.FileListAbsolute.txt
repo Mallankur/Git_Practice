@@ -1,0 +1,16 @@
+C:\Users\a.mall\OneDrive - Adform\Desktop\Work From Home M C#\Problem\bin\Debug\Problem.exe.config
+C:\Users\a.mall\OneDrive - Adform\Desktop\Work From Home M C#\Problem\bin\Debug\Problem.exe
+C:\Users\a.mall\OneDrive - Adform\Desktop\Work From Home M C#\Problem\bin\Debug\Problem.pdb
+C:\Users\a.mall\OneDrive - Adform\Desktop\Work From Home M C#\Problem\obj\Debug\Problem.csproj.AssemblyReference.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\Work From Home M C#\Problem\obj\Debug\Problem.csproj.SuggestedBindingRedirects.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\Work From Home M C#\Problem\obj\Debug\Problem.csproj.CoreCompileInputs.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\Work From Home M C#\Problem\obj\Debug\Problem.exe
+C:\Users\a.mall\OneDrive - Adform\Desktop\Work From Home M C#\Problem\obj\Debug\Problem.pdb
+C:\Users\a.mall\OneDrive - Adform\Desktop\git dry run\Problem\bin\Debug\Problem.exe.config
+C:\Users\a.mall\OneDrive - Adform\Desktop\git dry run\Problem\bin\Debug\Problem.exe
+C:\Users\a.mall\OneDrive - Adform\Desktop\git dry run\Problem\bin\Debug\Problem.pdb
+C:\Users\a.mall\OneDrive - Adform\Desktop\git dry run\Problem\obj\Debug\Problem.csproj.AssemblyReference.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\git dry run\Problem\obj\Debug\Problem.csproj.SuggestedBindingRedirects.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\git dry run\Problem\obj\Debug\Problem.csproj.CoreCompileInputs.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\git dry run\Problem\obj\Debug\Problem.exe
+C:\Users\a.mall\OneDrive - Adform\Desktop\git dry run\Problem\obj\Debug\Problem.pdb
